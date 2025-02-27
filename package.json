@@ -9,6 +9,6 @@
   },
   "author": "Amit",
   "license": "MIT",
-  "keywords": ["highlight", "text", "jquery"],
+  "keywords": ["highlight", "search highlighter", "text", "jquery"],
   "files": ["dist/trace.min.js"]
 }
