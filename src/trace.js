@@ -3,7 +3,7 @@
 
     $.fn.trace = function (o) {
         const p = "trace.js";
-        const v = "1.0.0";
+        const v = "1.0.1";
 
         $.fn.trace.info = {
             version: v,
@@ -40,7 +40,11 @@
         if (!$(`#trace-highlight-style`).length) {
             $("head").append(`<style id="trace-highlight-style">.${cl} { background: ${c}; }</style>`);
         }
-
+        
+        const styleElement = $("#trace-highlight-style");
+        if (!styleElement.html().includes(`.${cl} {`)) {
+            styleElement.append(`.${cl} { background: ${c}; }\n`);
+        }
 
         return this.each(function () {
             $(this).html($(this).html().replace(r, `<span class="${cl}">$1</span>`));
