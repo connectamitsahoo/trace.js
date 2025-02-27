@@ -89,7 +89,7 @@ $("#content").untrace();
 This project is licensed under the **MIT License**.
 
 **Author**: Amit\
-**Version**: 1.0.0\
+**Version**: 1.0.1\
 **GitHub Repository**: [Trace.js on GitHub](https://github.com/connectamitsahoo/trace.js)
 
 ## 🤝 Contributing
