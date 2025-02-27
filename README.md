@@ -22,3 +22,7 @@ Supports **case sensitivity, full/partial matches**, and **dynamic styling**.
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/your-username/trace.js/trace.min.js"></script>
+
+---
+
+### 2️⃣ **Download Manually**
