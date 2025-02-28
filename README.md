@@ -18,13 +18,19 @@ Supports **case sensitivity, full/partial matches**, and **dynamic styling**.
 
 ## 📦 Installation
 
-### 1️⃣ **CDN (Recommended)**
+### 1️⃣ **Install via npm**
+```html
+npm install trace-text-highlighter
+```
+
+
+### 2️⃣ **CDN (Recommended)**
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/connectamitsahoo/trace.js@latest/dist/trace.min.js"></script>
 ```
 
-### 2️⃣ **Download Manually**
+### 3️⃣ **Download Manually**
 [Download Trace.js](https://github.com/connectamitsahoo/trace.js) Include it after jQuery:
 ```html
 <script src="jquery.min.js"></script>

@@ -1,5 +1,5 @@
 {
-  "name": "trace-text-highlighter.js",
+  "name": "trace-text-highlighter",
   "version": "1.0.1",
   "description": "Lightweight jQuery Text Highlighter",
   "main": "dist/trace.min.js",
