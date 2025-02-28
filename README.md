@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![jQuery](https://img.shields.io/badge/jQuery-Required-blue.svg)](https://jquery.com/)
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/connectamitsahoo/trace.js/main/assets/logo.png" alt="Trace.js Logo" width="200">
+</p>
+
 Trace.js is a **lightweight and customizable jQuery plugin** for highlighting words or phrases inside HTML elements.  
 Supports **case sensitivity, full/partial matches**, and **dynamic styling**.
 
