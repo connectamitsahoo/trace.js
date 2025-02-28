@@ -9,6 +9,26 @@
   },
   "author": "Amit",
   "license": "MIT",
-  "keywords": ["highlight", "search highlighter", "keyword highlighter", "text", "jquery", "plugin"],
-  "files": ["dist/trace.min.js"]
+  "keywords": [
+    "highlight",
+    "search highlighter",
+    "keyword highlighter",
+    "text",
+    "jquery",
+    "plugin",
+    "text highlighter",
+    "content highlight",
+    "JS highlighter",
+    "search term highlight",
+    "text selection",
+    "custom highlighter",
+    "browser text highlight",
+    "real-time highlighting",
+    "dynamic text highlight",
+    "UX text enhancement",
+    "JavaScript plugin"
+  ],
+  "files": [
+    "dist/trace.min.js"
+  ]
 }
